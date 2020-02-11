@@ -1,2 +1,2 @@
 # automation
-Automated Test Samples in various Frameworks
+Automated Test Samples in Cypress
